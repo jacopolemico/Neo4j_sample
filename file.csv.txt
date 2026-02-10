@@ -1,1 +1,1 @@
-ciao
+MATCH (n:Progetto) RETURN n LIMIT 25;
