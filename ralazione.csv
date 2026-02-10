@@ -1,0 +1,8 @@
+ID;progetto;SUCCESSORE;sorgente;destinazione;azione;sottodominio
+ID1;PR_DAF;1;SIB;DH;Trasporto;Sub1
+ID2;PR_DAF;2;DH;Grace;Elaborazione;Sub2
+ID3;PR_DAF;3;Grace;Eng;Elaborazione;Sub3
+ID4;PR_DRM;1;DH;DH;Elaborazione;Sub4
+ID5;PR_DRM;2;DH;DataLayer;Trasporto;Sub2
+ID6;PR_DRM;3;DataLayer;SAS;Trasporto;Sub4
+ID7;PR_DAF;99;DataLayer;SAS;Elaborazione;Sub4
